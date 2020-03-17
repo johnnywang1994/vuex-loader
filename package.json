@@ -1,6 +1,7 @@
 {
-  "name": "vuex-loader",
+  "name": "@johnnywang/vuex-loader",
   "version": "1.0.0",
+  "description": "A tiny plugin for Vuex, handling with normal import",
   "author": "johnnywang",
   "main": "index.js",
   "repository": "https://github.com/johnnywang1994/vuex-loader.git",

@@ -19,7 +19,7 @@ module.exports = {
     test: /\.vue$/,
     loader: [
       'vue-loader',
-      'vuex-loader',
+      '@johnnywang/vuex-loader',
     ],
   },
 }

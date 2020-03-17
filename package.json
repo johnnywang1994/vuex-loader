@@ -1,0 +1,10 @@
+{
+  "name": "vuex-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/johnnywang1994/vuex-loader.git",
+  "license": "MIT",
+  "dependencies": {
+    "vuex": "^3.1.3"
+  }
+}

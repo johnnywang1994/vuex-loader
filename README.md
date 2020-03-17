@@ -6,7 +6,7 @@ This is a simple webpack loader which helps import vuex data without using any m
 ## Install
 
 ```
-$ npm install vuex-loader
+$ npm install @johnnywang/vuex-loader
 ```
 
 then just use right below(which will load before) your webpack's vue-loader:

@@ -5,9 +5,10 @@ import {
   mapActions
 } from 'vuex';
 
+const filtedKeys = new Set(['state', 'getters', 'mutations', 'actions']);
+
 const handleModuleKeys = function(options) {
   const { vuex } = options;
-  const filtedKeys = new Set(['state', 'getters', 'mutations', 'actions']);
   const allKeys = Object.keys(vuex);
   allKeys.forEach((key) => {
     if (!filtedKeys.has(key)) {

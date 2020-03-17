@@ -1,6 +1,7 @@
 {
   "name": "vuex-loader",
   "version": "1.0.0",
+  "author": "johnnywang",
   "main": "index.js",
   "repository": "https://github.com/johnnywang1994/vuex-loader.git",
   "license": "MIT",

@@ -1,5 +1,9 @@
 # vuex-loader
 
+This plugin is a `webpack-loader`, which could only be set in your webpack condig file, a new runtime compile version has be published
+
+> Please refer to: [Vuexess](https://www.npmjs.com/package/vuexess)
+
 This is a simple webpack loader which helps import vuex data without using any mapState, mapActions...
 
 
